@@ -37,3 +37,45 @@ a {
     text-align: center;
     color: #23527c;
 }
+
+.favoritos {
+    margin-bottom: 48px;
+}
+
+.favoritos ol {
+    padding: 32px;
+    background-color: #affd20;
+}
+
+.favoritos li {
+    margin-bottom: 8px;
+}
+
+.favoritos li, .favoritos a {
+    color: #23527c;
+}
+
+.sobre-petshop {
+    margin-bottom: 4px;
+}
+
+.footer {
+    background-color: darkslategray;
+}
+
+.footer ul {
+padding-top: 32px;
+padding-right: 32px;
+padding-bottom: 32px;
+padding-left: 16px;
+list-style-type: none;
+}
+
+.footer li {
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.footer li a {
+    color: #23527c;
+}
